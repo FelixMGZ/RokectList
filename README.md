@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/fluency/240/rocket.png" width="120" alt="RocketList Logo" />
+  <img src="https://github.com/FelixMGZ/RokectList/blob/main/img/banner%20rocketlist.png" height="400" alt="RocketList Banner" />
 </p>
 
 <h1 align="center">🚀 RocketList</h1>
